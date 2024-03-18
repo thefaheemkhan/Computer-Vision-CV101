@@ -21,7 +21,8 @@
 1.16. Probability calibration
 1.17. Neural network models (supervised)
 
-3. Unsupervised learning
+## 2. Unsupervised learning
+
 2.1. Gaussian mixture models
 2.2. Manifold learning
 2.3. Clustering
